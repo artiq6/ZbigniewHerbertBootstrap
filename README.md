@@ -29,4 +29,5 @@ uznip, open file index.html
 * **Artur Haluch** 
 
 ## Screens
-![screenFromApp](./screenHerbert)
+![screen1](./screenHerbert.png)
+![screen1](./screenHerbert2.png)
